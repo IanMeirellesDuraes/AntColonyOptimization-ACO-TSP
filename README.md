@@ -12,7 +12,7 @@ This project implements the Ant Colony Optimization (ACO) algorithm to solve the
   - [Example](#example)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -104,6 +104,3 @@ Contributions are welcome! If you have any improvements or bug fixes, please ope
 - Improving documentation.
 - Writing tests to ensure code quality.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
